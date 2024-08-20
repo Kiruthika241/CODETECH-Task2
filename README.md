@@ -59,3 +59,10 @@ Left Panel: Slicers (Product Category, Warehouse, Date).
 Center Section: Stock levels over time (Line chart or Bar chart).
 Right Panel: Reorder alerts and stockout warnings.
 Bottom Section: Aging inventory, supplier performance, and item-wise details.
+
+
+
+
+
+![image](https://github.com/user-attachments/assets/6b2a8a32-b731-4c30-8d0c-4a428ded75ba)
+
