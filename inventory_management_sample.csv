@@ -1,0 +1,6 @@
+ProductID,ProductName,Category,StockOnHand,ReorderLevel,UnitCost,TotalValue,DaysInStock,Supplier,LeadTimeDays,LastRestockDate,NextReorderDate
+1001,Laptop,Electronics,50,20,1200,60000,30,ABC Corp,7,2023-07-01,2023-09-01
+1002,Mouse,Accessories,150,50,20,3000,45,XYZ Supplies,3,2023-06-20,2023-08-20
+1003,Keyboard,Accessories,75,30,35,2625,10,XYZ Supplies,5,2023-08-05,2023-09-15
+1004,Monitor,Electronics,20,10,250,5000,60,Tech World,10,2023-06-01,2023-09-10
+1005,Printer,Electronics,10,5,150,1500,15,PrintPro,4,2023-08-10,2023-08-30
