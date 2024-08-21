@@ -1,3 +1,5 @@
+PROJECT:INVENTORY MANAGEMENT DASHBOARD
+
 Creating an Inventory Management Dashboard in Power BI involves tracking key metrics to manage stock levels, optimize inventory, and enhance supply chain efficiency. Here's a step-by-step guide on how to create a comprehensive dashboard:
 
 1. Data Preparation
