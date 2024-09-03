@@ -1,3 +1,4 @@
+NAME:KIRUTHIKA DEVI G COMPANY:CODETECH IT SOLUTIONS ID:CT08DS6029 DOMAIN:POWER BI DURATION:AUG-SEP 2024 MENTOR:LEELA SANTHOSH KUMAR
 PROJECT:INVENTORY MANAGEMENT DASHBOARD
 
 Creating an Inventory Management Dashboard in Power BI involves tracking key metrics to manage stock levels, optimize inventory, and enhance supply chain efficiency. Here's a step-by-step guide on how to create a comprehensive dashboard:
